@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(41,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(42,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(245,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(296,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(292,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(293,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(294,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\MyForm.h(295,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Stas.vcxproj -> D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.exe

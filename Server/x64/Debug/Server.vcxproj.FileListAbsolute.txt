@@ -1,0 +1,2 @@
+E:\Visual Studio\OS_lab9\Server\x64\Debug\Server.exe
+D:\Universe\Sem3\OS\Labs\Lab 9\Server\x64\Debug\Server.exe

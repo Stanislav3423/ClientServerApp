@@ -1,0 +1,10 @@
+E:\Visual Studio\OS_lab9\Stas\x64\Debug\Stas.vcxproj.AssemblyReference.cache
+E:\Visual Studio\OS_lab9\Stas\x64\Debug\Stas.vcxproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\OS_lab9\Stas\x64\Debug\Stas.exe
+E:\Visual Studio\OS_lab9\Stas\x64\Debug\Stas.MyForm.resources
+E:\Visual Studio\OS_lab9\Stas\x64\Debug\Stas.vcxproj.GenerateResource.cache
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.vcxproj.AssemblyReference.cache
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.vcxproj.SuggestedBindingRedirects.cache
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.MyForm.resources
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.vcxproj.GenerateResource.cache
+D:\Universe\Sem3\OS\Labs\Lab 9\Stas\x64\Debug\Stas.exe
